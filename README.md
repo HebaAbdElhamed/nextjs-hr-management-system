@@ -188,6 +188,6 @@ This project follows:
 
 ### Heba Elgohary
 
-LinkedIn: https://www.linkedin.com/in/heba-elgohary-a13074167/
-GitHub: https://github.com/HebaAbdElhamed
-Email: hebaabdelhamede@gmail.com
+- LinkedIn: https://www.linkedin.com/in/heba-elgohary-a13074167/
+- GitHub: https://github.com/HebaAbdElhamed
+- Email: hebaabdelhamede@gmail.com
