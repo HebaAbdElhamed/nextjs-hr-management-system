@@ -4,8 +4,6 @@ A modern and scalable HR Management System frontend built using Next.js 16, Type
 
 This application provides enterprise-level HR dashboards for admins and employees, including attendance tracking, payroll management, leave requests, employee management, and authentication flows.
 
---
-
 # ✨ Features
 
 ## 🔐 Authentication System
@@ -92,6 +90,7 @@ This application provides enterprise-level HR dashboards for admins and employee
 - Tailwind CSS
 - App Router
 - Axios
+- Tanstack-query
 - JWT Authentication
 - REST API Integration
 
@@ -167,24 +166,28 @@ The backend API for this project is available here:
 https://github.com/HebaAbdElhamed/laravel-hr-management-system-api.git
 
 Built with:
- - Laravel 13
- - RESTful API
- - Sanctum Authentication
- - MySQL
+
+- Laravel 13
+- RESTful API
+- Sanctum Authentication
+- MySQL
 
 ## 🧱 Architecture & Best Practices
 
 This project follows:
- - App Router architecture
- - Reusable UI components
- - Clean folder structure
- - Responsive design principles
- - Type-safe development using TypeScript
- - Component-based architecture
- - API abstraction layer
+
+- App Router architecture
+- Reusable UI components
+- Clean folder structure
+- Responsive design principles
+- Type-safe development using TypeScript
+- Component-based architecture
+- API abstraction layer
 
 ## 👩‍💻 Author
+
 ### Heba Elgohary
+
 LinkedIn: https://www.linkedin.com/in/heba-elgohary-a13074167/
 GitHub: https://github.com/HebaAbdElhamed
 Email: hebaabdelhamede@gmail.com
